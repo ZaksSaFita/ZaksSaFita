@@ -43,8 +43,7 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 **Additional:** Active Directory • Windows Server • Networks (TCP/IP, LAN/WAN) • Hardware & Software Maintenance • Firebase • REST APIs
 
 ### 📊 GitHub Stats
-![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
+![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaksSaFita&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaksSaFita&theme=radical&hide_border=true)
