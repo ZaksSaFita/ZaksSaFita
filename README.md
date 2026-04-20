@@ -68,13 +68,16 @@ Feel free to reach out — I'm always happy to connect!
 ### 📂 Featured Projects
 
 - **[MosPosudit](https://github.com/ZaksSaFita/MosPosudit)**  
-  Tool and equipment rental mobile application built with Flutter & Firebase (RS2 university project)
+  Tool and equipment rental mobile application built with Flutter & .Net (RS2 university project)
 
+- **[GCMC](https://github.com/ZaksSaFita/GCMC)**  
+  Web application built with Angular & .Net (RS1 university project)
+  
 - **[zTv-Player](https://github.com/ZaksSaFita/zTv-Player)**  
-  Flutter-based TV streaming application with channel playback
-
+  Full-featured IPTV streaming application – private commercial version developed and delivered to a client
+  
 - **[Taxi_Calc](https://github.com/ZaksSaFita/Taxi_Calc)**  
-  Taxi fare calculator developed in Flutter (real-time price calculation)
+  Taxi fare calculator developed in Flutter (currently in development)
 
 - **Multiple RS1 & RS2 University Projects**  
   Various desktop and mobile applications in C#/.NET and Flutter
