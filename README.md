@@ -67,7 +67,8 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 ---
 **Open to new opportunities** in software development, mobile applications (Flutter), or IT roles.  
 Feel free to reach out — I'm always happy to connect!
----
+
+
 ### 📊 GitHub Stats
 ![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true)
 
