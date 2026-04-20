@@ -1,10 +1,9 @@
 Hey, I'm Zahir 👋
 
 👨‍💻 About Me
-IT professional with hands-on experience in IT support, system administration, and software development. 
-
-
-🖥️ Sysadmin — Active Directory, Windows/Linux Server, user account management
+IT professional with hands-on experience in IT support, system administration, and software development. Currently working at Fresko d.o.o. where I handle everything from network infrastructure and hardware maintenance to developing the company website and internal mobile applications.
+I hold a Bachelor's degree in Information Technology (FIT Mostar, 2025). I enjoy solving real-world technical problems and building things that make daily work more efficient.
+🖥️ Sysadmin — Active Directory, Windows Server, user account management
 🌐 Networking — TCP/IP, LAN/WAN, routers, switches, VPN
 💻 Development — Flutter, Angular, C#, .NET, SQL Server
 🔧 IT Support — Hardware/software troubleshooting, remote & on-site support
