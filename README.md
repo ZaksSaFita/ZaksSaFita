@@ -35,12 +35,10 @@ Taxi_Calc	Taxi fare calculator	Dart
 GCMC	University project	C#
 ---
 📊 GitHub Stats
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaksSaFita&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZaksSaFita&theme=tokyonight&hide_border=true)
-</div>
----
+
 📬 Get in Touch
 📧 Email: sinancevic.za@gmail.com
 💼 LinkedIn: linkedin.com/in/YOUR_LINKEDIN ← zamijeni ovaj link!
@@ -51,8 +49,5 @@ GCMC	University project	C#
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaksSaFita&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ZaksSaFita&theme=tokyonight&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZaksSaFita&theme=tokyonight&no-frame=true&row=1)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
