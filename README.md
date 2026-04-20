@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Zahir Sinančević
 
-
+---
 ### About Me
 Passionate and results-driven IT professional with hands-on experience in **IT support**, **network administration**, and **software development**. Currently contributing to real-world projects at Fresko d.o.o. — developing the company website [www.fresko.ba](https://www.fresko.ba) and an internal mobile application to streamline business processes.
 
 Strong problem-solver with excellent analytical thinking, quick learning ability, and a proven track record in agile team environments.
-
+---
 ### 🛠️ Currently Working On
 - Company website **www.fresko.ba** (live production)
 - Internal Flutter mobile application for operational efficiency
-
+---
 ### 💼 Professional Experience
 
 **IT Support / Developer**  
@@ -19,12 +19,12 @@ Strong problem-solver with excellent analytical thinking, quick learning ability
 **IT Internship (Software Development)**  
 **CQURE** — Sarajevo, Bosnia and Herzegovina  
 *2025 (6 months)*
-
+---
 ### 🎓 Education
 **Bachelor of Information Technologies**  
 Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Mostar  
 *2022 – 2025*
-
+---
 ### 🛠️ Skills & Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
@@ -35,7 +35,7 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 **Additional:** Active Directory • Windows/Linux Server • Networks (TCP/IP, LAN/WAN) • Hardware & Software Maintenance • Firebase • REST APIs
-
+---
 ### 📂 Featured Projects
 
 - **[MosPosudit](https://github.com/ZaksSaFita/MosPosudit)**  
@@ -53,12 +53,12 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 - **Multiple RS1 & RS2 University Projects**  
   Various desktop and mobile applications in C#/.NET and Flutter
   
-
+---
 ### 🌐 Languages
 - **English** – C1 (Proficient)  
 - **German** – C1 (Spoken) / B2 (Reading & Writing)  
 - **Bosnian** – Native
-
+---
 ### 📫 Let's Connect
 - **LinkedIn**: [Zahir Sinančević](https://ba.linkedin.com/in/zahir-sinančević-165b92195)
 - **Email**: sinancevic.za@gmail.com
