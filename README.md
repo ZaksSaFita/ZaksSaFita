@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Zahir Sinančević
 
-**IT Support & Developer** at Fresko d.o.o.  
-Bachelor of Information Technologies  
-
-📍 Sarajevo, Bosnia and Herzegovina
-
----
 
 ### About Me
 Passionate and results-driven IT professional with hands-on experience in **IT support**, **network administration**, and **software development**. Currently contributing to real-world projects at Fresko d.o.o. — developing the company website [www.fresko.ba](https://www.fresko.ba) and an internal mobile application to streamline business processes.
@@ -42,29 +36,6 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 
 **Additional:** Active Directory • Windows/Linux Server • Networks (TCP/IP, LAN/WAN) • Hardware & Software Maintenance • Firebase • REST APIs
 
-### 📊 GitHub Stats
-![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaksSaFita&layout=compact&theme=radical&hide_border=true)
-
-
-### 🌐 Languages
-- **English** – C1 (Proficient)  
-- **German** – C1 (Spoken) / B2 (Reading & Writing)  
-- **Bosnian** – Native
-
-### 📫 Let's Connect
-- **LinkedIn**: [Zahir Sinančević](https://ba.linkedin.com/in/zahir-sinančević-165b92195)
-- **Email**: sinancevic.za@gmail.com
-- **GitHub**: [@ZaksSaFita](https://github.com/ZaksSaFita)
-
----
-
-**Open to new opportunities** in software development, mobile applications (Flutter), or IT roles.  
-Feel free to reach out — I'm always happy to connect!
-
-
-
 ### 📂 Featured Projects
 
 - **[MosPosudit](https://github.com/ZaksSaFita/MosPosudit)**  
@@ -81,3 +52,29 @@ Feel free to reach out — I'm always happy to connect!
 
 - **Multiple RS1 & RS2 University Projects**  
   Various desktop and mobile applications in C#/.NET and Flutter
+  
+
+### 🌐 Languages
+- **English** – C1 (Proficient)  
+- **German** – C1 (Spoken) / B2 (Reading & Writing)  
+- **Bosnian** – Native
+
+### 📫 Let's Connect
+- **LinkedIn**: [Zahir Sinančević](https://ba.linkedin.com/in/zahir-sinančević-165b92195)
+- **Email**: sinancevic.za@gmail.com
+- **GitHub**: [@ZaksSaFita](https://github.com/ZaksSaFita)
+
+---
+
+### 📊 GitHub Stats
+![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaksSaFita&layout=compact&theme=radical&hide_border=true)
+---
+
+**Open to new opportunities** in software development, mobile applications (Flutter), or IT roles.  
+Feel free to reach out — I'm always happy to connect!
+
+
+
+
