@@ -40,7 +40,7 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
-**Additional:** Active Directory • Windows Server • Networks (TCP/IP, LAN/WAN) • Hardware & Software Maintenance • Firebase • REST APIs
+**Additional:** Active Directory • Windows/Linux Server • Networks (TCP/IP, LAN/WAN) • Hardware & Software Maintenance • Firebase • REST APIs
 
 ### 📊 GitHub Stats
 ![Zahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaksSaFita&show_icons=true&theme=radical&hide_border=true)
@@ -62,3 +62,19 @@ Faculty of Information Technologies (FIT), University "Džemal Bijedić" in Most
 
 **Open to new opportunities** in software development, mobile applications (Flutter), or IT roles.  
 Feel free to reach out — I'm always happy to connect!
+
+
+
+### 📂 Featured Projects
+
+- **[MosPosudit](https://github.com/ZaksSaFita/MosPosudit)**  
+  Tool and equipment rental mobile application built with Flutter & Firebase (RS2 university project)
+
+- **[zTv-Player](https://github.com/ZaksSaFita/zTv-Player)**  
+  Flutter-based TV streaming application with channel playback
+
+- **[Taxi_Calc](https://github.com/ZaksSaFita/Taxi_Calc)**  
+  Taxi fare calculator developed in Flutter (real-time price calculation)
+
+- **Multiple RS1 & RS2 University Projects**  
+  Various desktop and mobile applications in C#/.NET and Flutter
